@@ -393,8 +393,13 @@ Note that the organization here is a best effort categorization for general tags
 - [wiggleplotr](http://bioconductor.org/packages/devel/bioc/vignettes/wiggleplotr/inst/doc/wiggleplotr.html) [(img)](https://cmdcolin.github.io/awesome-genome-visualization/wiggleplotr.png)
 ## Splicing
 - [splicejam](https://github.com/jmw86069/splicejam) [(img)](https://cmdcolin.github.io/awesome-genome-visualization/splicejam.png)
+## Somatic
+- [Oviz-Bio](https://bio.oviz.org/) Platform for Cancer Genomics Data Visualization
+- [Mutation mapper](https://www.cbioportal.org/mutation_mapper) Loliplot Visualization and Cancer annotation of MAF 
+- [Proteinpaint](https://proteinpaint.stjude.org/) Loliplot of affected protein in MAF
+## Primer - PCR
+- [mfeprimer3](https://mfeprimer3.igenetech.com/spec) Checking huge of primer lists and extract amplicon sequences
 # Other lists
-
 - [Awesome Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
 - [Genocat](http://genocat.tools/) large collection of genomic visualizations with great review paper accompaniment https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.13727
 - [awesome-biological-visualizations](https://github.com/keller-mark/awesome-biological-visualizations)

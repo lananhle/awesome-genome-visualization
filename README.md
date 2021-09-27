@@ -400,6 +400,9 @@ Note that the organization here is a best effort categorization for general tags
 - [Proteinpaint](https://proteinpaint.stjude.org/) Loliplot of affected protein in MAF
 ## Primer - PCR
 - [mfeprimer3](https://mfeprimer3.igenetech.com/spec) Checking huge of primer lists and extract amplicon sequences
+
+## Human genome
+- [kmerkeys](https://kmerkeys.dgi-stanford.org/) A tool for assessing human sequence uniqueness
 # Other lists
 - [Awesome Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
 - [Genocat](http://genocat.tools/) large collection of genomic visualizations with great review paper accompaniment https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.13727

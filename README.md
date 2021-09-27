@@ -391,6 +391,7 @@ Note that the organization here is a best effort categorization for general tags
 - [vega](http://vega.archive.ensembl.org/Homo_sapiens/Location/Chromosome?r=6-QBL) (Mentioned in https://www.biorxiv.org/content/10.1101/2021.07.02.450883v1.full.pdf) [(img)](https://cmdcolin.github.io/awesome-genome-visualization/vega.png)
 ## Coverage
 - [wiggleplotr](http://bioconductor.org/packages/devel/bioc/vignettes/wiggleplotr/inst/doc/wiggleplotr.html) [(img)](https://cmdcolin.github.io/awesome-genome-visualization/wiggleplotr.png)
+- [CovFuzze](https://github.com/al-mcintyre/CovFuzze)
 ## Splicing
 - [splicejam](https://github.com/jmw86069/splicejam) [(img)](https://cmdcolin.github.io/awesome-genome-visualization/splicejam.png)
 ## Somatic
@@ -399,9 +400,6 @@ Note that the organization here is a best effort categorization for general tags
 - [Proteinpaint](https://proteinpaint.stjude.org/) Loliplot of affected protein in MAF
 ## Primer - PCR
 - [mfeprimer3](https://mfeprimer3.igenetech.com/spec) Checking huge of primer lists and extract amplicon sequences
-
-## Coverageg -bam file
-- [CovFuzze](https://github.com/al-mcintyre/CovFuzze)
 # Other lists
 - [Awesome Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
 - [Genocat](http://genocat.tools/) large collection of genomic visualizations with great review paper accompaniment https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.13727

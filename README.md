@@ -154,6 +154,7 @@ Note that the organization here is a best effort categorization for general tags
 - [Gambit](http://labsergen.langebio.cinvestav.mx/bioinformatics/jacob/?p=473) [(img)](https://cmdcolin.github.io/awesome-genome-visualization/gambit.png)
 - [LookSeq](https://www.sanger.ac.uk/tool/lookseq/) [(img)](https://cmdcolin.github.io/awesome-genome-visualization/lookseq.png)
 - [udon](https://github.com/ocxtal/udon) (Uses an advanced data structure for pileup, so visually a basic example but likely just a small demo) [(img)](https://cmdcolin.github.io/awesome-genome-visualization/udon.png)
+- [plotReads](https://campuspress.yale.edu/knightlab/ruddle/plotreads/) – Visualizing BAM Alignments
 ## Comparative
 - [GSSPlayground](https://github.com/orangeSi/GSSplayground) [(img)](https://cmdcolin.github.io/awesome-genome-visualization/gssplayground.png)
 - [Aequatus](https://github.com/TGAC/Aequatus) [(img)](https://cmdcolin.github.io/awesome-genome-visualization/aequatus.png)
